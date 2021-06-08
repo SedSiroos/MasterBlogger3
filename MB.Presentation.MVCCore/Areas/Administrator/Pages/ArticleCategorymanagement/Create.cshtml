@@ -1,0 +1,29 @@
+﻿@page
+@model MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleCategorymanagement.CreateModel
+@{
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Create New Article Category</h3>
+    </div>
+
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label for="Title" class="control-label">Title: </label>
+                            <input id="Title" name="Title" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <input type="submit" class="btn btn-success" value="Create" />
+                        <a class="btn btn-dark" asp-page="./List" asp-area="Administrator">Back To List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

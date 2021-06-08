@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Siroos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Siroos\\.nuget\\packages"
+    ]
+  }
+}
