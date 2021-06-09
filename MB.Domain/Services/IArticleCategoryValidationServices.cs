@@ -4,8 +4,8 @@ using System.Text;
 
 namespace MB.Domain.Services
 {
-    public interface IArticleCategoryValidationServic
+    public interface IArticleCategoryValidationServices
     {
-        void CheckThatReadyExits(string title);
+        void CheckThatReadyExist(string title);
     }
 }

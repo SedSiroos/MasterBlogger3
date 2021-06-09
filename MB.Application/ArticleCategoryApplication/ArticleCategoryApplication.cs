@@ -12,8 +12,8 @@ namespace MB.Application.ArticleCategoryApplication
     public class ArticleCategoryApplication : IArticleCategoryApllication
     {
         private readonly IArticleCategoryRepository _articleCategoryRepository;
-        private readonly IArticleCategoryValidationServic _articleCategoryValidation;
-        public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository, IArticleCategoryValidationServic articleCategoryValidation)
+        private readonly IArticleCategoryValidationServices _articleCategoryValidation;
+        public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository, IArticleCategoryValidationServices articleCategoryValidation)
         {
             _articleCategoryRepository = articleCategoryRepository;
             _articleCategoryValidation = articleCategoryValidation;
@@ -32,7 +32,7 @@ namespace MB.Application.ArticleCategoryApplication
                     Id = item.Id,
                     Title = item.Title,
                     IsDeleted = item.IsDeleted,
-                    CreationDate = DateTime.Now,
+                    CreationDate = item.CreationDate,
                 });
             }
 

@@ -3,29 +3,37 @@ using System.Collections.Generic;
 using System.Text;
 using MB.Domain.Services;
 
+
 namespace MB.Domain.ArticleCategory
 {
     public class ArticleCategory
     {
+        protected ArticleCategory()
+        {
+            
+        }
         public long Id { get; private set; }
         public string Title { get; private set; }
         public bool IsDeleted { get; private set; }
-        public DateTimeOffset CreationDate { get; private set; }
+        public DateTime CreationDate { get; private set; }
+        public IEnumerable<Article.Article> Articles { get; set; }
 
-        public ArticleCategory(string title,IArticleCategoryValidationServic validation)
+
+
+        public ArticleCategory(string title,IArticleCategoryValidationServices validationServices)
         {
-            NullOrEmpty(title);
-            validation.CheckThatReadyExits(title);
-
+            GuardAgainstEmptyTitle(title);
+            validationServices.CheckThatReadyExist(title);
+             
             Title = title;
             IsDeleted = false;
             CreationDate = DateTime.Now;
+            Articles = new List<Article.Article>();
         }
 
         public void Rename(string title)
         {
-            NullOrEmpty(title);
-            
+            GuardAgainstEmptyTitle(title);
             Title = title;
         }
 
@@ -39,7 +47,7 @@ namespace MB.Domain.ArticleCategory
             IsDeleted = false;
         }
 
-        public void NullOrEmpty(string title)
+        public void GuardAgainstEmptyTitle(string title)
         {
             if (string.IsNullOrWhiteSpace(title))
             {

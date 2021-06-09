@@ -2,7 +2,9 @@ C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csprojAssemblyReference.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
@@ -10,5 +12,3 @@ C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb

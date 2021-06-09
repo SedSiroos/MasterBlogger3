@@ -1,12 +1,12 @@
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.deps.json
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csprojAssemblyReference.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfoInputs.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfo.cs
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CopyComplete
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.pdb
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CopyComplete

@@ -53,9 +53,9 @@ C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\n
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructor.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructor.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.pdb
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csprojAssemblyReference.cache
@@ -71,6 +71,10 @@ C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\n
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.input.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.output.cache
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\Create.cshtml.g.cs
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\Edit.cshtml.g.cs
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\List.cshtml.g.cs
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\List.cshtml.g.cs
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -91,7 +95,4 @@ C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\n
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
 C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.genruntimeconfig.cache
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\List.cshtml.g.cs
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\Create.cshtml.g.cs
-C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategorymanagement\Edit.cshtml.g.cs
+C:\Users\Siroos\Desktop\proje\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
